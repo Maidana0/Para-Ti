@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Index() {
+function Home() {
     return (
-  <div id='index' className='container text-center rounded'>
-    <h1 className='title'> Bienvenidx a nuestra página de entretenimiento!! </h1>
-    <h4 className='text'> En este sitio podrás obtener sugerencias de series, películas y anime para disfrutar y encontrarlas en sus respectivas plataformas. </h4>       
-    <div className='carrusel '>
+  <div id='home' className='container text-center rounded'>
+    <h1 className='title-index'> Bienvenidx a nuestro sitio de entretenimiento!! </h1>
+    <h4 className='text-index'> En este sitio podrás obtener sugerencias de series, películas y anime para disfrutar y encontrarlas en sus respectivas plataformas. </h4>       
+    <div className='carrusel'>
       <div id='carouselExampleCaptions' className='carousel slide' data-ride='carousel'>
         <ol className='carousel-indicators'>
           <li data-target='#carouselExampleCaptions' data-slide-to='0' className='active'></li>
@@ -30,7 +30,7 @@ function Index() {
           <div className='carousel-item'>
             <img src={require('../imagenes/law.jpg')} className='d-block w-100' alt='Anime-ParaTi'/>
             <div className='carousel-caption d-md-block'>
-            <a href='#peliculas'> <h5>ANIME</h5> </a>
+            <a href='#anime'> <h5>ANIME</h5> </a>
             </div>
           </div>
         </div>
@@ -49,4 +49,4 @@ function Index() {
     );
   }
   
-export default Index;
+export default Home;
