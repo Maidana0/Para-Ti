@@ -13,6 +13,7 @@ import data from './data.json'
         <div className='text col-lg-9'>
             <p> {props.text} </p>
             <p> {props.text2} </p>
+            <small className='text-secondary'>Se encuentra disponible en: {props.streaming}.</small>
         </div>
     </div>
     );
@@ -23,7 +24,7 @@ import data from './data.json'
  const Lista = (text) => {
     return (
     <>
-        <div>                
+        {/* <div>                
             {data.series.series1.map( record => {
                 return (
                     <div key={record.id}>
@@ -38,9 +39,9 @@ import data from './data.json'
                 )
             })}
             <button type="button" className='btn btn-outline-dark btn-lg mb-3 mr-5 float-right'> Siguiente</button>
-        </div>
+        </div> */}
 
-        {/* <div> 
+        <div> 
           { data.series.series2.map( record => {
                 return (
                     <div key={record.id}>
@@ -48,6 +49,7 @@ import data from './data.json'
                             name= { record.name}
                             text= { record.text}
                             text2= { record.text2}
+                            streaming= {record.streaming}
                             category= { record.category}
                             img = {record.img}
                         />
@@ -55,7 +57,7 @@ import data from './data.json'
                 )
             })}
             <button type="button" className='btn btn-outline-dark btn-lg mb-3 ml-5 float-left'> Anterior </button>
-        </div> */}
+        </div>
     </>
     );
  }

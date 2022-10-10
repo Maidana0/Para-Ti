@@ -14,21 +14,21 @@ function Home() {
         </ol>
         <div className='carousel-inner '>
           <div className='carousel-item active'>      
-            <img src={require('../imagenes/vikings.jpg')} className='d-block w-100' alt='Series-ParaTi'/>
+            <img src={require('../../imagenes/vikings.jpg')} className='d-block w-100' alt='Series-ParaTi'/>
             <div className='carousel-caption d-md-block'>
             <a href='#series'> <h5>SERIES</h5> </a>
             </div>
         
           </div>
           <div className='carousel-item'>
-            <img src={require('../imagenes/guason.jpg')} className='d-block w-100' alt='Peliculas-ParaTi'/>
+            <img src={require('../../imagenes/guason.jpg')} className='d-block w-100' alt='Peliculas-ParaTi'/>
             <div className='carousel-caption d-md-block'>
             <a href='#peliculas'> <h5>PELICULAS</h5> </a>
             </div>
           </div>
           
           <div className='carousel-item'>
-            <img src={require('../imagenes/law.jpg')} className='d-block w-100' alt='Anime-ParaTi'/>
+            <img src={require('../../imagenes/law.jpg')} className='d-block w-100' alt='Anime-ParaTi'/>
             <div className='carousel-caption d-md-block'>
             <a href='#anime'> <h5>ANIME</h5> </a>
             </div>

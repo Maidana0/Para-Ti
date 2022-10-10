@@ -1,7 +1,7 @@
 import React from 'react';
-import Home from './componentes/Home';
+import Home from './componentes/general/Home';
 import Seccion from './componentes/contenido/Content';
-
+import Contacto from './componentes/contacto/contacto'
 
 function App() {
   if (document.getElementById("btn_scrolltop")){
@@ -24,12 +24,14 @@ function App() {
 
 
   return (
-      <div id='app'>
-       {/* <Home/> */}
+      <main id='app'>
+       {/* <Home/>
         
-       <Seccion section= 'Series'/>
+       <Seccion section= 'Series'/> */}
 
-      </div>
+      {/* <Contacto /> */}
+
+      </main>
   );
 }
 

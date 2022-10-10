@@ -7,7 +7,8 @@
         "category": "Violento | Emocionante | Épico",
         "img": "series/1",
         "text": "Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares. Gracias a la ayuda de su amigo bufón Floki, construyen nuevos navíos más rápidos y elegantes con los que poder dar forma a su mayor ilusión. En su aventura chocan con Earl Haraldson, Gabriel Byrne su principal enemigo, que sospecha de las expectativas de Lothbrok.",
-        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes."}
+        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes.",
+        "streaming": "Netflix"}
     ,
       {
         "id": "2",
@@ -15,7 +16,8 @@
         "category": "Drama | Violento | Crimenes",
         "img": "series/2",
         "text": "Peaky Blinders es un drama que narra la historia de la familia de gánsters Shelby, asentada en Birmingham tras la Primera Guerra Mundial, característica por sus boinas con cuchillas y dueñas de los asuntos ilegales que dominan las apuestas clandestinas y se rigen mediante extorsiones. Las actividades de la banda llamaron la atención del inspector jefe Chester Campbell, un detective de la Real Poilicía Irlandesa que es enviado desde Belfast para limpiar la ciudad.",
-        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo."}
+        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo.",
+        "streaming": "Netflix"}
       ,
       {
         "id": "3",
@@ -23,7 +25,8 @@
         "category": "Comedia | Violento | Épico",
         "img": "series/3",
         "text": "La serie iniciará después de los eventos de The Suicide Squad, cuando Peacemaker (John Cena), un asesino muy experimentado con conocimiento en todas las armas, está en prisión. Clemson Murn (Chukwudi Iwuji) le ofrece la oportunidad de evitar la cárcel al trabajar para él y formar un equipo para matar gente mala.",
-        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre."}
+        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre.",
+        "streaming": "HBO-Max"}
       ,
       {
         "id": "4",
@@ -31,7 +34,8 @@
         "category": "Drama | Emocionante | Épico",
         "img": "series/4",
         "text": "La primera temporada comienza cuando Lincoln Burrows es acusado de asesinar a Terrence Steadman, el hermano de la vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a la Penitenciaría Estatal Fox River.",
-        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel."}
+        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel.",
+        "streaming": "StarPlus"}
       ,  
       {
         "id": "5",
@@ -39,49 +43,55 @@
         "category": "Misterio | Crimen | Juvenil",
         "img": "series/5",
         "text": "En el pequeño pueblo de Riverdale, la muerte Jason Blossom, el chico popular, sacude a todos los habitantes. Por su parte, Archie Andrews descubre su amor por la música, lo que le ocasiona problemas con su familia. Betty Cooper regresa al pueblo después de un tiempo, con la idea de declararle su amor a Archie, además descubre algunos secretos relacionados a su familia. Veronica Lodge inicia una vida lejos de Nueva York, mientras pone su atención en formar parte del grupo de porristas, algo que Cheryl Blossom, toma como una amenaza.",
-        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico."}
+        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico.",
+        "streaming": "Netflix"}
   ]
   ,
     "series2": [ 
       {
-        "id": "1",
+        "id": "6",
         "name": "Altered Carbon",
         "category": "Crimen | Sci-Fi | Violento",
         "img": "series/6",
         "text": "Altered Carbon es una serie exclusiva de Netflix basada en la homónima novela de ciencia ficción escrita por Richard K. Morgan.",
-        "text2": "Publicada en el año 2002, Altered Carbon está ambientada en un futuro distópico, donde se explora qué es lo que sucede cuando la mente humana puede ser almacenada digitalmente y descargada en nuevos cuerpos. Takeshi Kovacs, un ex guerrero interestelar de élite de las Naciones Unidas que ha sido mantenido prisionero durante 500 años, es descargado en un futuro que siempre intentó detener. Arrojado en Bay City (la ciudad anteriormente conocida como San Francisco), Kovacs debe mostrarse capaz de resolver un asesinato en un mundo donde los avances tecnológicos han convertido la muerte en un concepto obsoleto."}
+        "text2": "Publicada en el año 2002, Altered Carbon está ambientada en un futuro distópico, donde se explora qué es lo que sucede cuando la mente humana puede ser almacenada digitalmente y descargada en nuevos cuerpos. Takeshi Kovacs, un ex guerrero interestelar de élite de las Naciones Unidas que ha sido mantenido prisionero durante 500 años, es descargado en un futuro que siempre intentó detener. Arrojado en Bay City (la ciudad anteriormente conocida como San Francisco), Kovacs debe mostrarse capaz de resolver un asesinato en un mundo donde los avances tecnológicos han convertido la muerte en un concepto obsoleto.",
+        "streaming": "Netflix"}
     ,
       {
-        "id": "2",
+        "id": "7",
         "name": "Stranger Things",
         "category": "Emocionante |Sci-Fi| Suspenso",
         "img": "series/7",
         "text": "La serie inicia el 6 de noviembre de 1983, en la ciudad de Hawkins, Indiana. Will Byers, un niño de 12 años de edad, tras pasar 10 horas jugando Calabozos y Dragones con sus amigos Mike Wheeler, Dustin Henderson y Lucas Sinclair, desaparece misteriosamente tras regresar a casa. Al día siguiente su hermano Jonathan Byers y su madre Joyce Byers, se dan cuenta de que no está en casa.",
-        "text2": "Desesperados, comienzan la búsqueda de Will. Mientras tanto, una niña con aspecto extraño y habilidades extrañas aparece en una cafetería de la localidad. Pero en el desarrollo de la búsqueda, descubrirán sus amigos y familiares que no solo tendrán que enfrentarse a una organización extraña, sino a siniestras fuerzas que planean devorar todo lo que esté a su paso."}
+        "text2": "Desesperados, comienzan la búsqueda de Will. Mientras tanto, una niña con aspecto extraño y habilidades extrañas aparece en una cafetería de la localidad. Pero en el desarrollo de la búsqueda, descubrirán sus amigos y familiares que no solo tendrán que enfrentarse a una organización extraña, sino a siniestras fuerzas que planean devorar todo lo que esté a su paso.",
+        "streaming": "Netflix"}
       ,
       {
-        "id": "3",
+        "id": "8",
         "name": "Rick and Morty",
         "category": "Comedia | Sci-Fi | Absurdo",
         "img": "series/8",
         "text": "Rick Sánchez es la definición exacta de 'científico loco', es alcohólico, un genio, irresponsable y está loco. Acaba de mudarse a casa de su hija Beth y allí recuerda que tiene un nieto llamado Morty. Sin preguntar a nadie, decide que va a obligarle a que le acompañe a todo tipo de aventuras para que el chico se vuelva inteligente como él y no se convierta en un idiota como Jerry, padre de Morty.",
-        "text2": "Así, Rick y Morty comienzan a vivir aventuras intergalácticas a pesar de que la familia no quiere que lo sigan haciendo. Poco a poco tienen que intentar encontrar un equilibrio entre su vida familiar y sus viajes a través del espacio y por distintas realidades paralelas, algo que no es fácil para el pequeño Morty que es incapaz de tener una vida normal al margen de su abuelo."}
+        "text2": "Así, Rick y Morty comienzan a vivir aventuras intergalácticas a pesar de que la familia no quiere que lo sigan haciendo. Poco a poco tienen que intentar encontrar un equilibrio entre su vida familiar y sus viajes a través del espacio y por distintas realidades paralelas, algo que no es fácil para el pequeño Morty que es incapaz de tener una vida normal al margen de su abuelo.",
+        "streaming": "Netflix y HBO-Max"}
       ,
       {
-        "id": "4",
+        "id": "9",
         "name": "The Big Bang Theory",
         "category": "Comedia |Vida Cotidiana",
         "img": "series/9",
         "text": "La serie transcurre en la vida cotidiana de dos de estos peculiares personajes, Leonard Hofstadter y Sheldon Cooper, dos físicos que comparten trabajo y apartamento. Su vida cambia radicalmente cuando Penny, una atractiva camarera con la que los científicos no saben relacionarse, se convierte en su nueva vecina. El simple hecho de una presencia femenina al otro lado del pasillo se convierte en todo un desafío para ellos y principal causa de todo tipo de situaciones disparatadas.",
-        "text2": "Comedia que muestra las pocas habilidades sociales de dos mentes privilegiadas. Está protagonizada por Johnny Galecki, Jim Parsons y Kaley Cuoco."}
+        "text2": "Comedia que muestra las pocas habilidades sociales de dos mentes privilegiadas. Está protagonizada por Johnny Galecki, Jim Parsons y Kaley Cuoco.",
+        "streaming": "HBO-Max"}
       ,  
       {
-        "id": "5",
+        "id": "10",
         "name": "Mr. Robot",
         "category": "Suspenso | Drama | Moderna",
         "img": "series/10",
         "text": "Mr. Robot se centra en un joven programador, Elliot (Rami Malek), que sufre de un trastorno antisocial debilitante y decide que sólo puede conectar con la gente a través de la piratería. Él maneja sus habilidades como un arma para proteger a las personas que le importan, trabajando como ingeniero de seguridad cibernética de día y como hacker de noche.",
-        "text2": "Esta situación pondrá a Elliot en la disyuntiva de elegir entre una firma de seguridad cibernética para la que trabaja o apoyar a las organizaciones de los bajos fondos que le quieren reclutar para derribar la América corporativa."}
+        "text2": "Esta situación pondrá a Elliot en la disyuntiva de elegir entre una firma de seguridad cibernética para la que trabaja o apoyar a las organizaciones de los bajos fondos que le quieren reclutar para derribar la América corporativa.",
+        "streaming": "PrimeVideo"}
   ]
 }
 
@@ -91,85 +101,95 @@
     "peliculas1": [ 
       {
         "id": "1",
-        "name": "Vikings",
-        "category": "Violento | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares. Gracias a la ayuda de su amigo bufón Floki, construyen nuevos navíos más rápidos y elegantes con los que poder dar forma a su mayor ilusión. En su aventura chocan con Earl Haraldson, Gabriel Byrne su principal enemigo, que sospecha de las expectativas de Lothbrok.",
-        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes."}
+        "name": "Joker",
+        "category": "Drama | Crimen | Violento",
+        "img": "peliculas/1",
+        "text": "Arthur Fleck se siente solo entre la multitud, usa dos máscaras mientras camina por las calles de Gotham, una ciudad hostil donde reina la división y la insatisfacción. Una máscara le sirve para su trabajo diario como payaso. La otra no se la puede quitar nunca, es la apariencia que proyecta en un intento inútil de sentirse parte del mundo que lo rodea. Se siente despreciado por una sociedad cruel.",
+        "text2": "Arthur no tiene padre y su madre es una mujer frágil quien le puso de apodo Happy, un nombre que ha pintado en Arthur una sonrisa que oculta un dolor infinito. Cuando lo intimidan en las calles, se burlan de su ropa, o cuando otros payasos se ríen de él, este ser asocial y estrafalario se siente aún más alejado de todos los que le rodean.",
+        "streaming": "PrimeVideo"}
     ,
       {
         "id": "2",
-        "name": "Peaky Blinders",
-        "category": "Drama | Violento | Crimenes",
-        "img": "series/vikingos.jpg",
-        "text": "Peaky Blinders es un drama que narra la historia de la familia de gánsters Shelby, asentada en Birmingham tras la Primera Guerra Mundial, característica por sus boinas con cuchillas y dueñas de los asuntos ilegales que dominan las apuestas clandestinas y se rigen mediante extorsiones. Las actividades de la banda llamaron la atención del inspector jefe Chester Campbell, un detective de la Real Poilicía Irlandesa que es enviado desde Belfast para limpiar la ciudad.",
-        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo."}
+        "name": "El Jugador",
+        "category": "Drama | Juego | Apuestas",
+        "img": "peliculas/2",
+        "text": "La película del año 1961 en blanco y negro, gira en torno a la vida de Eddie Felson (Paul Newman), un joven arrogante y orgulloso que frecuenta con éxito las salas de billar ganando apuesta tras apuesta. Decidido a ser proclamado el mejor jugador, busca al Gordo de Minnesota (Gleason), un legendario campeón de billar. En su historia de ascensión y caída le acompañarán Sarah Packard, una chica coja y alcohólica de la que se enamorará, y Bert Gordon, un ruin jugador de ventaja que trata de explotar la habilidad de Felson en su propio beneficio.",
+        "text2": "Gran drama psicológico con una emotiva plasmación del fracaso, retratado con un melancólico tono cercano a la lírica en la existencia de dos inestables personajes enlazados a causa de un azaroso destino.",
+        "streaming": "StarPlus"}
       ,
       {
         "id": "3",
-        "name": "Peace Maker",
-        "category": "Comedia | Violento | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La serie iniciará después de los eventos de The Suicide Squad, cuando Peacemaker (John Cena), un asesino muy experimentado con conocimiento en todas las armas, está en prisión. Clemson Murn (Chukwudi Iwuji) le ofrece la oportunidad de evitar la cárcel al trabajar para él y formar un equipo para matar gente mala.",
-        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre."}
+        "name": "El Club de la Pelea",
+        "category": "Violento | Drama | Suspenso",
+        "img": "peliculas/3",
+        "text": "El narrador (Edward Norton) lleva una vida aburrida y monótona, que se vuelve aún más triste cuando se vuelve adicto a los grupos de terapia para tratar de superar su insomnio. Allí conoce a Marla (Helena Bonham Carter), una farsante a la que comienza a despreciar y con la que se enfrenta en más de una ocasión.",
+        "text2": "Viajando en avión conoce a Tyler Durden (Brad Pitt), un vendedor de jabón con una clara ideología: el perfeccionismo es para los débiles y la destrucción de uno mismo es lo que vale la pena en la vida. Juntos canalizan su agresividad en una nueva forma de terapia. El concepto, en un principio secreto, se populariza y se forman clubes de lucha clandestinos en todas las ciudades trayéndoles varios problemas.",
+        "streaming": "Netflix, StarPlus y PrimeVideo"}
       ,
       {
         "id": "4",
-        "name": "Prison Break",
-        "category": "Drama | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La primera temporada comienza cuando Lincoln Burrows es acusado de asesinar a Terrence Steadman, el hermano de la vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a la Penitenciaría Estatal Fox River.",
-        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel."}
+        "name": "El Padrino",
+        "category": "Drama | Acción | Suspenso",
+        "img": "peliculas/4",
+        "text": "América, años 40. Don Vito Corleone (Marlon Brando) es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: Connie (Talia Shire), el impulsivo Sonny (James Caan), el pusilánime Fredo (John Cazale) y Michael (Al Pacino), que no quiere saber nada de los negocios de su padre.",
+        "text2": "Cuando Corleone, en contra de los consejos de 'Il consigliere' Tom Hagen (Robert Duvall), se niega a participar en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",
+        "streaming": "PrimeVideo"}
       ,  
       {
         "id": "5",
-        "name": "Riverdale",
-        "category": "Misterio | Crimen | Juvenil",
-        "img": "series/vikingos.jpg",
-        "text": "En el pequeño pueblo de Riverdale, la muerte Jason Blossom, el chico popular, sacude a todos los habitantes. Por su parte, Archie Andrews descubre su amor por la música, lo que le ocasiona problemas con su familia. Betty Cooper regresa al pueblo después de un tiempo, con la idea de declararle su amor a Archie, además descubre algunos secretos relacionados a su familia. Veronica Lodge inicia una vida lejos de Nueva York, mientras pone su atención en formar parte del grupo de porristas, algo que Cheryl Blossom, toma como una amenaza.",
-        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico."}
+        "name": "Bad Moms",
+        "category": "Comedia | Madres Modernas",
+        "img": "peliculas/5",
+        "text": "Como la mayoría de las madres modernas, Amy cuida a todos menos a sí misma. Su vida es perfecta: un matrimonio feliz, hijos que superan todas las expectativas y una hermosa casa. Hornea para la venta de pasteles de la escuela, preside todos los comité- todo mientras sigue con su carrera. Hace que todo parezca fácil.",
+        "text2": "Pero en realidad, está en un momento decisivo: demasiado trabajo, compromisos y por demás exhausta para recibir órdenes de todos. ¿Por qué trabajar tanto sin recibir apreciación? ¿Qué pasaría si hiciera lo que ella quisiera? Harta, se une a otras madres y las conduce en una búsqueda para liberarse de responsabilidades convencionales en una juerga de libertad, diversión y auto-indulgencia de no-madre.",
+        "streaming": "HBO-Max"}
   ]
   ,
     "peliculas2": [ 
       {
-        "id": "1",
-        "name": "Vikings",
-        "category": "Violento | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares. Gracias a la ayuda de su amigo bufón Floki, construyen nuevos navíos más rápidos y elegantes con los que poder dar forma a su mayor ilusión. En su aventura chocan con Earl Haraldson, Gabriel Byrne su principal enemigo, que sospecha de las expectativas de Lothbrok.",
-        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes."}
+        "id": "6",
+        "name": "Cruella",
+        "category": "Moda | Comedia | Drama",
+        "img": "peliculas/6",
+        "text": "Cruella sigue a una joven estafadora llamada Estella, una chica inteligente y creativa decidida a hacerse un lugar en la moda con sus diseños de ropa. Cuando se hace amiga de un par de jóvenes ladrones que aprecian su apetito por las travesuras, juntos logran construir una vida en las calles de Londres.",
+        "text2": "Un día, el talento de Estella llama la atención de la Baronesa von Hellman, la aterradoramente elegante y sofisticada leyenda de la moda interpretada por las 2 veces ganadora del Óscar, Emma Thompson. Pero su relación pone en marcha un curso de eventos y revelaciones que harán que Estella abrace su lado más perverso y se convierta en la disonante, vanguardista y ávida de venganza Cruella.",
+        "streaming": "DisneyPlus"}
     ,
       {
-        "id": "2",
-        "name": "Peaky Blinders",
-        "category": "Drama | Violento | Crimenes",
-        "img": "series/vikingos.jpg",
-        "text": "Peaky Blinders es un drama que narra la historia de la familia de gánsters Shelby, asentada en Birmingham tras la Primera Guerra Mundial, característica por sus boinas con cuchillas y dueñas de los asuntos ilegales que dominan las apuestas clandestinas y se rigen mediante extorsiones. Las actividades de la banda llamaron la atención del inspector jefe Chester Campbell, un detective de la Real Poilicía Irlandesa que es enviado desde Belfast para limpiar la ciudad.",
-        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo."}
+        "id": "7",
+        "name": "La Isla Siniestra",
+        "category": "Misterio | Ciencia Ficción",
+        "img": "peliculas/7",
+        "text": "En el año 1954 los agentes federales Ted Daniels y Chuck Aule son enviados a la Isla Shutter, un sanatorio-prisión para criminales con desórdenes mentales. Allí deberán investigar la desaparición de una reclusa que asesinó a sus hijos y que ha escapado sin dejar huella. Serán ayudados en su búsqueda por profesionales psiquiatras.",
+        "text2": "Serán ayudados en su búsqueda por profesionales psiquiatras. Los efectos de una fuerte tormenta afecta la estabilidad del agente Daniels, perseguido por los recuerdos de la muerte trágica de su esposa y de su experiencia en la guerra. Lo que comienza como una investigación de rutina rápidamente se torna en algo siniestro ya que en el desarrollo de la misma, Ted descubre impactantes y aterradoras verdades acerca de la isla.",
+        "streaming": "Netflix"}
       ,
       {
-        "id": "3",
-        "name": "Peace Maker",
-        "category": "Comedia | Violento | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La serie iniciará después de los eventos de The Suicide Squad, cuando Peacemaker (John Cena), un asesino muy experimentado con conocimiento en todas las armas, está en prisión. Clemson Murn (Chukwudi Iwuji) le ofrece la oportunidad de evitar la cárcel al trabajar para él y formar un equipo para matar gente mala.",
-        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre."}
+        "id": "8",
+        "name": "The Truman Show",
+        "category": "Ciencia Ficción | Emocionante",
+        "img": "peliculas/8",
+        "text": "Truman Burbank (Jim Carrey), un hombre risueño que cree tener la vida perfecta, es, sin saberlo, el protagonista de un programa de televisión seguido por millones de espectadores. Las cámaras siempre han estado ahí, escondidas, al acecho... Desde sus primeros pasos, pasando por la caída de su primer diente, hasta su primer amor. Los escenarios y las personas que conoce son productos de la ficción.",
+        "text2": "Un buen día, Truman empieza a sospechar de la farsa. Aunque en un principio ni él mismo se lo cree, finalmente descubre que, en efecto, forma parte de un show de televisión. Las cosas empeoran cuando se entera de que el accidente de su padre en el mar en realidad fue un montaje para dotar de dramatismo su vida.",
+        "streaming": "HBO-Max y PrimeVideo"}
       ,
       {
-        "id": "4",
-        "name": "Prison Break",
-        "category": "Drama | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La primera temporada comienza cuando Lincoln Burrows es acusado de asesinar a Terrence Steadman, el hermano de la vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a la Penitenciaría Estatal Fox River.",
-        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel."}
+        "id": "9",
+        "name": "The Dark Knight",
+        "category": "Acción | Emocionante | Crimen",
+        "img": "peliculas/9",
+        "text": "Con la ayuda del teniente Jim Gordon (Gary Oldman) y el nuevo y comprometido Fiscal del Distrito, Harvey Dent, Batman (Christian Bale) se propone destruir para siempre el crimen organizado en Gotham City. Al principio la asociación demuestra ser efectiva, sin embargo, la llegada de un nuevo villano a la ciudad destruirá todos los planes de Batman.",
+        "text2": "Se trata de Joker (Heath Ledger), un psicópata retorcido y sádico, con una morbosa fascinación por todo lo que rodea al murciélago. Pronto comenzará a sembrar el pánico y a causar estragos en Gotham, convirtiéndose en el peor enemigo posible para El caballero oscuro, obligandolo a cruzar la línea que separa al héroe del justiciero.",
+        "streaming": "HBO-Max"}
       ,  
       {
-        "id": "5",
-        "name": "Riverdale",
-        "category": "Misterio | Crimen | Juvenil",
-        "img": "series/vikingos.jpg",
-        "text": "En el pequeño pueblo de Riverdale, la muerte Jason Blossom, el chico popular, sacude a todos los habitantes. Por su parte, Archie Andrews descubre su amor por la música, lo que le ocasiona problemas con su familia. Betty Cooper regresa al pueblo después de un tiempo, con la idea de declararle su amor a Archie, además descubre algunos secretos relacionados a su familia. Veronica Lodge inicia una vida lejos de Nueva York, mientras pone su atención en formar parte del grupo de porristas, algo que Cheryl Blossom, toma como una amenaza.",
-        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico."}
+        "id": "10",
+        "name": "Thor : Ragnarok",
+        "category": "Fantasía | Acción | Comedia",
+        "img": "peliculas/10",
+        "text": "Asgard se encuentra en manos de una poderosa amenaza, la despiadada y todopoderosa Hela, que ha robado el trono y ha enviado a Thor como prisionero hasta el otro extremo de la galaxia sin su martillo. En el planeta Sakaar, Thor tendrá que luchar por su vida como un gladiador.",
+        "text2": "Para escapar de su cautiverio, Thor tendrá que resultar vencedor en una competición alienígena, y derrotar a su antiguo aliado y amigo Vengador El increíble Hulk. Pero, por alguna misteriosa razón, Hulk no recuerda a su compañero Vengador. El objetivo del Dios del trueno será volver a Asgard y parar el Ragnarok, un ciclo de vida y muerte sin fin que podría significar la destrucción total e inminente de la civilización asgardiana.",
+        "streaming": "DisneyPlus"}
   ]
 }
 ,
@@ -179,85 +199,94 @@
     "anime1": [ 
       {
         "id": "1",
-        "name": "Vikings",
-        "category": "Violento | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares. Gracias a la ayuda de su amigo bufón Floki, construyen nuevos navíos más rápidos y elegantes con los que poder dar forma a su mayor ilusión. En su aventura chocan con Earl Haraldson, Gabriel Byrne su principal enemigo, que sospecha de las expectativas de Lothbrok.",
-        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes."}
+        "name": "One Piece",
+        "category": "Acción | Aventuras | Comedias",
+        "img": "anime/1",
+        "text": "Una historia épica de piratas, donde narra la historia de 'Monkey D. Luffy' quien cuado tenia 7 años, comió accidentalmente una 'Akuma no mi'(Futa del diablo) la cual le dio poderes de goma. Por otra parte 'Gol D. Roger' conocido como 'El rey de los Piratas' quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro 'One Piece' escondido en la 'Gran line'.",
+        "text2": "Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar, en busca de 'One Piece' el tesoro perdido. Diez años después, Luffy inspirado en 'Gol D. Roger' y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo 'Rey de los Piratas' y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el 'One Piece'.",
+        "streaming": "Netflix y HBO-Max"}
     ,
       {
         "id": "2",
-        "name": "Peaky Blinders",
-        "category": "Drama | Violento | Crimenes",
-        "img": "series/vikingos.jpg",
-        "text": "Peaky Blinders es un drama que narra la historia de la familia de gánsters Shelby, asentada en Birmingham tras la Primera Guerra Mundial, característica por sus boinas con cuchillas y dueñas de los asuntos ilegales que dominan las apuestas clandestinas y se rigen mediante extorsiones. Las actividades de la banda llamaron la atención del inspector jefe Chester Campbell, un detective de la Real Poilicía Irlandesa que es enviado desde Belfast para limpiar la ciudad.",
-        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo."}
+        "name": "Hunter x Hunter",
+        "category": "Acción | Aventuras | Shounen",
+        "img": "anime/2",
+        "text": "La serie fue animada en 1999 con un total de sesenta y dos episodios emitidos. Años mas tardes, en julio del 2011, se confirmo que el estudio Madhouse iba a producir una nueva adaptación del anime. Sin embargo, se opto por animar toda la historia desde cero.",
+        "text2": "El anime trata de Gon Frecks,un niño de 12 años, quien vive con su tia Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, el es quien le dice que su padre Gin esta vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre."}
       ,
       {
         "id": "3",
-        "name": "Peace Maker",
-        "category": "Comedia | Violento | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La serie iniciará después de los eventos de The Suicide Squad, cuando Peacemaker (John Cena), un asesino muy experimentado con conocimiento en todas las armas, está en prisión. Clemson Murn (Chukwudi Iwuji) le ofrece la oportunidad de evitar la cárcel al trabajar para él y formar un equipo para matar gente mala.",
-        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre."}
+        "name": "Bleach",
+        "category": "Acción | Aventuras | Espadas",
+        "img": "anime/3",
+        "text": "Kurosaki Ichigo es un estudiante de instituto de 15 años, que tiene una peculiaridad: es capaz de ver, oír y hablar con fantasmas. Pero no sabe hasta dónde puede abarcar la clasificación de espíritus, ni lo que conlleva el saberlo. Un buen día, una extraña chica de pequeña estatura que viste ropas negras de samurai entra en su cuarto. Se llama Rukia Kuchiki, y es una Shinigami (Dios de la Muerte).",
+        "text2": "Ante la incredulidad de Ichigo, le explica que su trabajo es mandar a las almas buenas o plus a un lugar llamado la Sociedad de Almas, y eliminar a las almas malignas o hollows. Luego junto a Inoue Orihime, Ishida Ury y Sado Yasutora se veran envueltos en diferentes batallas, las cuales iran desarrollando sus diferentes habilidades que le otorgaran a cada uno su importancia en la serie.",
+        "streaming": "Netflix"}
       ,
       {
         "id": "4",
-        "name": "Prison Break",
-        "category": "Drama | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La primera temporada comienza cuando Lincoln Burrows es acusado de asesinar a Terrence Steadman, el hermano de la vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a la Penitenciaría Estatal Fox River.",
-        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel."}
+        "name": "Ahiru no Sora",
+        "category": "Deportes | Drama | Comedia",
+        "img": "anime/4",
+        "text": "Sora Kurumatani, robusto, débil pero muy apasionado, ingresa a la preparatoria Kuzuryuu con la esperanza de cumplir los deseos de su madre de dominar su primer torneo de preparatoria. Sin embargo, el club de baloncesto, convertido en guarida para delincuentes, ¡hace todo menos jugar al baloncesto!",
+        "text2": "Los miembros de su club, Momoharu Hanazono, un hábil bloqueador que puede hacer saltos de poder pero es horrible disparando, y su hermano gemelo Chiaki, un talentoso armador, también ha perdido interés en el deporte. Con solo un juego abrumado por la adrenalina y la emoción, y el amor puro de Sora por el juego, el espíritu juvenil del baloncesto se reaviva.",
+        "streaming": "AnimeFLV"}
       ,  
       {
         "id": "5",
-        "name": "Riverdale",
-        "category": "Misterio | Crimen | Juvenil",
-        "img": "series/vikingos.jpg",
-        "text": "En el pequeño pueblo de Riverdale, la muerte Jason Blossom, el chico popular, sacude a todos los habitantes. Por su parte, Archie Andrews descubre su amor por la música, lo que le ocasiona problemas con su familia. Betty Cooper regresa al pueblo después de un tiempo, con la idea de declararle su amor a Archie, además descubre algunos secretos relacionados a su familia. Veronica Lodge inicia una vida lejos de Nueva York, mientras pone su atención en formar parte del grupo de porristas, algo que Cheryl Blossom, toma como una amenaza.",
-        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico."}
+        "name": "Death Note",
+        "category": "Suspenso |Policía| Psicológico",
+        "img": "anime/5",
+        "text": "Light Yagami es un excelente estudiante japonés que ha tenido una vida aburrida. Esto cambia radicalmente cuando encuentra tirado en el suelo un cuaderno conocido como Death Note (Libreta de la Muerte), un cuaderno perdido por Ryuk, un Shinigami (Dios de la muerte).",
+        "text2": "Cualquier humano cuyo nombre esté escrito en el cuaderno morirá, y ahora Light ha decidido utilizar este poder para crear un mundo perfecto sin criminales. Pero cuando los criminales comienzan a morir de forma masiva, las autoridades envían al legendario detective L en busca del asesino. Con L pisándole los talones, Podrá mantener Light su noble propósito incluso arriesgando su vida.",
+        "streaming": "Netflix y HBO-Max"}
   ]
   ,
     "anime2": [ 
       {
-        "id": "1",
-        "name": "Vikings",
-        "category": "Violento | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares. Gracias a la ayuda de su amigo bufón Floki, construyen nuevos navíos más rápidos y elegantes con los que poder dar forma a su mayor ilusión. En su aventura chocan con Earl Haraldson, Gabriel Byrne su principal enemigo, que sospecha de las expectativas de Lothbrok.",
-        "text2": "Lothbrok consigue llegar a ser el mejor guerrero de la tribu vikinga mientras lucha por convertirse el rey de Dinamarca y gran parte de, lo que hoy es, Suecia. La serie resalta las batallas con mayor imaginación, haciendo más énfasis en los puntos de vista individuales, las estrategias y astucias de los personajes."}
+        "id": "6",
+        "name": "Demon Slayer",
+        "category": "Acción |Demonios| Sobrenatural",
+        "img": "anime/6",
+        "text": "La adaptación animada del manga Kimetsu no Yaiba (Demon Slayer) corre a cargo del estudio de animación Ufotable. El anima transcurre en la era Taisho de Japón.",
+        "text2": "Kamado Tanjiro, un chico joven, bastante inteligente y con un corazón que no le abe en el pecho, se gana la vida vendiendo carbón. Descubre un día que su familia ha sido asesinada por un demonio. Para empeorar las cosas, su hermana menor Nezuko, la única superviviente de la masacre, ha sufrido una transformación en demonio. Destrozado por los acontecimientos Tanjiro decide convertirse en un cazador de demonios para poder devolver a su hermana a la normalidad y matar al demonio que masacró a su familia.",
+        "streaming": "Netflix"}
     ,
       {
-        "id": "2",
-        "name": "Peaky Blinders",
-        "category": "Drama | Violento | Crimenes",
-        "img": "series/vikingos.jpg",
-        "text": "Peaky Blinders es un drama que narra la historia de la familia de gánsters Shelby, asentada en Birmingham tras la Primera Guerra Mundial, característica por sus boinas con cuchillas y dueñas de los asuntos ilegales que dominan las apuestas clandestinas y se rigen mediante extorsiones. Las actividades de la banda llamaron la atención del inspector jefe Chester Campbell, un detective de la Real Poilicía Irlandesa que es enviado desde Belfast para limpiar la ciudad.",
-        "text2": "La historia comienza con la llegada de un joven Tomas (Tommy) Shelby que tras regresar de la guerra, se ocupara de los negocios familiares. Veremos como el joven lidia con las secuelas psicológicas de la guerra, y como llevara adelante su ambición y hambre por el poder intentando mantener a su familia a salvo."}
+        "id": "7",
+        "name": "Jujutsu Kaisen",
+        "category": "Acción |Demonios| Sobrenatural",
+        "img": "anime/7",
+        "text": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua…",
+        "text2": "Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+        "streaming": "AnimeFLV"}
       ,
       {
-        "id": "3",
-        "name": "Peace Maker",
-        "category": "Comedia | Violento | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La serie iniciará después de los eventos de The Suicide Squad, cuando Peacemaker (John Cena), un asesino muy experimentado con conocimiento en todas las armas, está en prisión. Clemson Murn (Chukwudi Iwuji) le ofrece la oportunidad de evitar la cárcel al trabajar para él y formar un equipo para matar gente mala.",
-        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre."}
+        "id": "8",
+        "name": "Shingeki no Kyojin",
+        "category": "Acción | Drama | Superpoderes",
+        "img": "anime/8",
+        "text": "'Ataque a los Titanes' se ambienta hace varios cientos de años cuando los humanos fueron casi exterminados por los titanes. Un pequeño porcentaje de la humanidad consigue sobrevivir amurallando a sí mismos en una ciudad protegida por las murallas más altas que el más grande de los titanes.",
+        "text2": "Con la misión de asesinar al senador Royland Goff, Peacemaker se une a Harcourt (Jennifer Holland), John Economos (Steve Agee), Vigilante (Freddie Stroma) y Adebayo (Danielle Brooks). Los miembros de la Fuerza Especial X harán todo lo posible para ser un equipo. Por otro lado, el antihéroe intentará reconciliarse con su padre.",
+        "streaming": "AnimeFLV"}
       ,
       {
-        "id": "4",
-        "name": "Prison Break",
-        "category": "Drama | Emocionante | Épico",
-        "img": "series/vikingos.jpg",
-        "text": "La primera temporada comienza cuando Lincoln Burrows es acusado de asesinar a Terrence Steadman, el hermano de la vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a la Penitenciaría Estatal Fox River.",
-        "text2": "Michael Scofield, el hermano menor de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, Michael roba un banco a mano armada para que lo encarcelen en Fox River. Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración que llevó a Lincoln a la cárcel."}
+        "id": "9",
+        "name": "Boku no Hero",
+        "category": "Acción |Fantasía| Superpoderes",
+        "img": "anime/9",
+        "text": "Boku no Hero - My Hero Academia transcurre en un mundo en el cual los superpoderes en las personas son vistos con normalidad. El contexto trajo una nueva profesion, la de Héroe. El anime se basara en la vida de Izuku Midoriya, un joven aspirante a héroe.",
+        "text2": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?",
+        "streaming": "AnimeFLV"}
       ,  
       {
-        "id": "5",
-        "name": "Riverdale",
-        "category": "Misterio | Crimen | Juvenil",
-        "img": "series/vikingos.jpg",
-        "text": "En el pequeño pueblo de Riverdale, la muerte Jason Blossom, el chico popular, sacude a todos los habitantes. Por su parte, Archie Andrews descubre su amor por la música, lo que le ocasiona problemas con su familia. Betty Cooper regresa al pueblo después de un tiempo, con la idea de declararle su amor a Archie, además descubre algunos secretos relacionados a su familia. Veronica Lodge inicia una vida lejos de Nueva York, mientras pone su atención en formar parte del grupo de porristas, algo que Cheryl Blossom, toma como una amenaza.",
-        "text2": "Ahora Archie y su nuevo grupo de amigos deben de indagar en los secretos más obscuros del pueblo, tratando de descubrir los hechos que ocasionaron la muerte de un chico."}
+        "id": "10",
+        "name": "One Puch Man",
+        "category": "Acción | Comedias | Parodia",
+        "img": "anime/10",
+        "text": "Surge en un contexto en el cual abundan los héroes que luchan contra el mal. La serie está protagonizada por Saitama, un joven de 25 años que comenzó a hacer de héroe por pura afición, y tras tres años de un durísimo entrenamiento consiguió tal nivel de fuerza que puede acabar con cualquier enemigo de un solo puñetazo.",
+        "text2": "El joven vive en Ciudad Z, una zona que continuamente está siendo invadida por monstruos. Aspiraba a volverse fuerte para poder disfrutar varias batallas contra los monstruos que se presentaran. Ahora la vida emocionante que esperaba tener se ha convertido en una de tedio absoluto, pero ¿habrá alguien a su nivel entre todos los héroes del mundo? ¿Y un villano capaz de hacerle sombra?",
+        "streaming": "Netflix"}
   ]
 }
 
