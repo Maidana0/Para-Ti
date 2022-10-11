@@ -1,25 +1,77 @@
 import React from 'react';
-import './style-contacto.css'
+import { useForm, ValidationError } from '@formspree/react';
+import './style-contacto.css';
+
 
 export const Contacto = () => {
-    return (
-        <>
+  const [state, handleSubmit] = useForm("xgeqzvpq");
+  if (state.succeeded) {
+      return  (
+            <>
+            <div id='success' className='bg-light puff-in-center container text-center rounded shadow-lg p-4 mx-auto mt-5 w-75 border border-success'>
+                <h2 className='text-success mt-3'> ¡Gracias por contactarnos!</h2>
+                    <p className='text-secondary'>El mensaje fue enviado correctamente.</p>
+                    <img className='w-50 mb-5 rounded'src={require('./luffy-success.png')}/>
+            </div>
+            </>
+        )
+  }
+  return (
+    <div id='contacto'> 
+        <h1 className='contact-title'>Contacto</h1>
+        <form onSubmit={handleSubmit}
+        action="https://formspree.io/f/xgeqzvpq"
+        method="POST"
+        className='form'>
 
-    <div id="contacto"> 
-        <h2 className="holaT">Contacto</h2> <hr/>
+        <input 
+        type="text" 
+        name="name" 
+        id="full-name" 
+        placeholder="Nombre" 
+        required
+        autoComplete='none'
+        minLength="2"
+        tabIndex={'1'}
+        />
 
-        <form id="formContact" className=" centrar" action="">
-            <input required className="contacto" id="nombre"  name="nombre" type="text" tabindex="1" autocomplete="off" placeholder="Nombre"/>
-            <input required className="contacto" id="email"  name="email" type="email" tabindex="2" autocomplete="off" placeholder="Email" />
-            <input required className="contacto" id="motivo"  name="motivo" type="text" tabindex="3" autocomplete="off" placeholder="Motivo de contacto"/>
-            <textarea required className="contacto" id="mensaje"  name="mensaje" rows="4" maxlength="200" minlength="3" tabindex="4" autocomplete="off" placeholder="Mensaje"/>
-            <button type="submit"  className="boton corto enviar">Enviar</button> 
+        <input
+            id="email"
+            type="email" 
+            name="email"
+            placeholder='Email'
+            required
+            tabIndex={'2'}
+        />
+        <ValidationError 
+            prefix="Email" 
+            field="email"
+            errors={state.errors}
+            
+        />
+        <textarea
+            id="message"
+            name="message"
+            placeholder='Mensaje'
+            autoComplete='none'
+            required
+            minLength="10"
+            tabIndex={'3'}
+        />
+        <ValidationError 
+            prefix="Message" 
+            field="message"
+            errors={state.errors}
+        />
+
+        <button tabIndex={'3'}
+        className='btn-form' type="submit" 
+        disabled={state.submitting}>
+            Enviar
+        </button>
         </form>
-
     </div>
-        
-        </>
-    )
+  );
 }
 
 export default Contacto

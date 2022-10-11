@@ -19,12 +19,11 @@ import data from './data.json'
     );
 }
 
-
-
- const Lista = (text) => {
+export const ListaSeries = () => {
     return (
-    <>
-        {/* <div>                
+    <div className="content">
+        <div className='title-content text-center py-1 '>Series</div>
+          <div id='page-1' className='lista lista-activa'>                
             {data.series.series1.map( record => {
                 return (
                     <div key={record.id}>
@@ -32,16 +31,22 @@ import data from './data.json'
                             name= { record.name}
                             text= { record.text}
                             text2= { record.text2}
+                            streaming= {record.streaming}
                             category= { record.category}
                             img = {record.img} 
                             />
                     </div>
                 )
             })}
-            <button type="button" className='btn btn-outline-dark btn-lg mb-3 mr-5 float-right'> Siguiente</button>
-        </div> */}
-
-        <div> 
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 mr-5 float-right'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.add('lista-activa');
+                    (document.getElementById('page-1')).classList.remove('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+            }}
+            > Siguiente</button>
+          </div>
+          <div id='page-2' className='lista'> 
           { data.series.series2.map( record => {
                 return (
                     <div key={record.id}>
@@ -56,19 +61,122 @@ import data from './data.json'
                     </div>
                 )
             })}
-            <button type="button" className='btn btn-outline-dark btn-lg mb-3 ml-5 float-left'> Anterior </button>
-        </div>
-    </>
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 ml-5 float-left'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.remove('lista-activa');
+                    (document.getElementById('page-1')).classList.add('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+                }}
+                > Anterior </button>
+          </div>
+    </div>
     );
- }
-
-
- export const Seccion = ({section}) =>{
-    return (
-        <div className="content">
-            <div className='title-content text-center py-1 '> {section}  </div>
-           <Lista/>
-        </div>
-);
 }
-export default Seccion
+
+export const ListaPeliculas = () => {
+    return (
+    <div className="content">
+        <div className='title-content text-center py-1 '>Peliculas</div>
+          <div id='page-1' className='lista lista-activa'>                
+            {data.peliculas.peliculas1.map( record => {
+                return (
+                    <div key={record.id}>
+                        <Bloque
+                            name= { record.name}
+                            text= { record.text}
+                            text2= { record.text2}
+                            streaming= {record.streaming}
+                            category= { record.category}
+                            img = {record.img} 
+                            />
+                    </div>
+                )
+            })}
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 mr-5 float-right'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.add('lista-activa');
+                    (document.getElementById('page-1')).classList.remove('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+            }}
+            > Siguiente</button>
+          </div>
+          <div id='page-2' className='lista'> 
+          { data.peliculas.peliculas2.map( record => {
+                return (
+                    <div key={record.id}>
+                        <Bloque
+                            name= { record.name}
+                            text= { record.text}
+                            text2= { record.text2}
+                            streaming= {record.streaming}
+                            category= { record.category}
+                            img = {record.img}
+                        />
+                    </div>
+                )
+            })}
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 ml-5 float-left'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.remove('lista-activa');
+                    (document.getElementById('page-1')).classList.add('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+                }}
+                > Anterior </button>
+          </div>
+    </div>
+    );
+}
+
+export const ListaAnime = () => {
+    return (
+    <div className="content">
+        <div className='title-content text-center py-1 '>Anime</div>
+          <div id='page-1' className='lista lista-activa'>                
+            {data.anime.anime1.map( record => {
+                return (
+                    <div key={record.id}>
+                        <Bloque
+                            name= { record.name}
+                            text= { record.text}
+                            text2= { record.text2}
+                            streaming= {record.streaming}
+                            category= { record.category}
+                            img = {record.img} 
+                            />
+                    </div>
+                )
+            })}
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 mr-5 float-right'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.add('lista-activa');
+                    (document.getElementById('page-1')).classList.remove('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+            }}
+            > Siguiente</button>
+          </div>
+          <div id='page-2' className='lista'> 
+          { data.anime.anime2.map( record => {
+                return (
+                    <div key={record.id}>
+                        <Bloque
+                            name= { record.name}
+                            text= { record.text}
+                            text2= { record.text2}
+                            streaming= {record.streaming}
+                            category= { record.category}
+                            img = {record.img}
+                        />
+                    </div>
+                )
+            })}
+            <button type="button" className='btn btn-outline-dark btn-lg mb-3 ml-5 float-left'
+                onClick={()=>{
+                    (document.getElementById('page-2')).classList.remove('lista-activa');
+                    (document.getElementById('page-1')).classList.add('lista-activa');
+                    setTimeout(()=>{ window.scrollTo(0, 0)}, 500);
+                }}
+                > Anterior </button>
+          </div>
+    </div>
+    );
+}

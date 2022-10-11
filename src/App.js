@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './componentes/general/Home';
-import Seccion from './componentes/contenido/Content';
+import {ListaPeliculas, ListaSeries, ListaAnime} from './componentes/contenido/Content';
 import Contacto from './componentes/contacto/contacto'
 
 function App() {
@@ -25,9 +25,15 @@ function App() {
 
   return (
       <main id='app'>
-       {/* <Home/>
+      {/* <Home/> */}
         
-       <Seccion section= 'Series'/> */}
+       <ListaSeries /> 
+
+       
+       {/* <ListaAnime />  */}
+       {/* <ListaPeliculas />  */}
+
+
 
       {/* <Contacto /> */}
 
