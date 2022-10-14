@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './style-content.css';
 import data from './data.json'
 
@@ -8,7 +8,7 @@ import data from './data.json'
         <div className='text-name col-lg-3 text-center'>
            <h3> {props.name} </h3> 
            <small> {props.category}</small>
-           <img src={require (`./portadas/${props.img}.jpg`) }/>
+           <img src={require (`./portadas/${props.img}.jpg`)} alt={props.name}/>
         </div>
         <div className='text col-lg-9'>
             <p> {props.text} </p>
@@ -19,10 +19,15 @@ import data from './data.json'
     );
 }
 
+
 export const ListaSeries = () => {
     return (
-    <div className="content">
+    <div className="content" id='series'>
         <div className='title-content text-center py-1 '>Series</div>
+        
+            
+
+
           <div id='page-1' className='lista lista-activa'>                
             {data.series.series1.map( record => {
                 return (
@@ -46,6 +51,7 @@ export const ListaSeries = () => {
             }}
             > Siguiente</button>
           </div>
+
           <div id='page-2' className='lista'> 
           { data.series.series2.map( record => {
                 return (
@@ -69,6 +75,8 @@ export const ListaSeries = () => {
                 }}
                 > Anterior </button>
           </div>
+
+
     </div>
     );
 }

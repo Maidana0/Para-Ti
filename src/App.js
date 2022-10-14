@@ -3,6 +3,7 @@ import Home from './componentes/general/Home';
 import {ListaPeliculas, ListaSeries, ListaAnime} from './componentes/contenido/Content';
 import Contacto from './componentes/contacto/contacto'
 
+
 function App() {
   if (document.getElementById("btn_scrolltop")){
     const btn_scrolltop = document.getElementById("btn_scrolltop")
@@ -23,15 +24,17 @@ function App() {
     }
 
 
+
   return (
       <main id='app'>
-      {/* <Home/> */}
+
+      <Home/>
         
-       <ListaSeries /> 
+       {/* <ListaSeries />  */}
 
        
-       {/* <ListaAnime />  */}
-       {/* <ListaPeliculas />  */}
+       {/* <ListaAnime /> 
+       <ListaPeliculas />  */}
 
 
 

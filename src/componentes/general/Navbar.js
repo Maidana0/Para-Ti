@@ -1,6 +1,6 @@
 import React from 'react';
-
-function Header() {
+import ListaSeries from '../contenido/Content'
+function Navbar() {
   return (
     <header>
       <nav className='navbar navbar-dark bg-dark'>
@@ -19,7 +19,7 @@ function Header() {
               <a className='nav-link' href='#home'>Inicio</a>
             </li>
             <li className='nav-item'>
-              <a className='nav-link' href='#/series'>Series</a>
+              <a className='nav-link'  href='#series'>Series</a>
             </li>
             <li className='nav-item'>
               <a className='nav-link' href='#/peliculas'>Peliculas</a>
@@ -28,7 +28,7 @@ function Header() {
               <a className='nav-link' href='#/anime'>Anime</a>
             </li>
             <li className='nav-item'>
-              <a className='nav-link' href='#/contacto'>Sugerencias</a>
+              <a className='nav-link' href='#/contacto'>Contacto</a>
             </li>
           </ul>
         </div>
@@ -37,4 +37,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Navbar;
