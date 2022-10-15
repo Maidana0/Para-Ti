@@ -3,7 +3,7 @@ import { useForm, ValidationError } from '@formspree/react';
 import './style-contacto.css';
 
 
-export const Contacto = () => {
+export const Contact = () => {
   const [state, handleSubmit] = useForm("xgeqzvpq");
   if (state.succeeded) {
       return  (
@@ -74,4 +74,4 @@ export const Contacto = () => {
   );
 }
 
-export default Contacto
+export default Contact

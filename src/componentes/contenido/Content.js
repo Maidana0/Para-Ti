@@ -22,7 +22,7 @@ import data from './data.json'
 
 export const ListaSeries = () => {
     return (
-    <div className="content" id='series'>
+    <div className="content">
         <div className='title-content text-center py-1 '>Series</div>
         
             
