@@ -2,11 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import {Index, Peliculas, Series, Anime, Contacto} from './App';
-import { BrowserRouter as Router, Routes, Route, BrowserRouter} from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-
 if (document.getElementById("btn_scrolltop")){
   const btn_scrolltop = document.getElementById("btn_scrolltop")
     btn_scrolltop.addEventListener('click', () => {
@@ -24,7 +23,6 @@ if (document.getElementById("btn_scrolltop")){
     }
   } 
 }
-
 root.render (
   <Router>
     <Routes>
