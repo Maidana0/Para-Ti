@@ -88,11 +88,11 @@ export const App = ()=>{
   <Router>
     <Navbar/>
       <Routes>
-        <Route path='/' element= {<Home/>} />
-        <Route path='/peliculas' element={ <ListaPeliculas />} />
-        <Route path='/series' element={ <ListaSeries />} />
-        <Route path='/anime' element={ <ListaAnime />} />
-        <Route path='/contacto' element={ <Contact />} />
+        <Route path='/Para-Ti/' element= {<Home/>} />
+        <Route path='/Para-Ti/peliculas' element={ <ListaPeliculas />} />
+        <Route path='/Para-Ti/series' element={ <ListaSeries />} />
+        <Route path='/Para-Ti/anime' element={ <ListaAnime />} />
+        <Route path='/Para-Ti/contacto' element={ <Contact />} />
       </Routes>
     <Footer/>
   </Router>
