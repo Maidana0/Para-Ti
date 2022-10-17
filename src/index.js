@@ -24,6 +24,7 @@ if (document.getElementById("btn_scrolltop")){
   } 
 }
 root.render (
+<React.StrictMode>
   <Router>
     <Routes>
       <Route path='/' element= {<Index/>} />
@@ -33,5 +34,6 @@ root.render (
       <Route path='/contacto' element={ <Contacto />} />
     </Routes>
   </Router>  
+</React.StrictMode>
 );
 
