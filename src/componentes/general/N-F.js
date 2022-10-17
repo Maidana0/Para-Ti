@@ -4,7 +4,7 @@ export function Navbar() {
   return (
 <header>
       <nav className='navbar navbar-dark bg-dark'>
-      <Link to='/' className='navbar-tittle navbar-brand'> 
+      <Link to='Para-Ti/' className='navbar-tittle navbar-brand'> 
         <img className='header-icon' src={require('../../imagenes/icon.png')}/>
         Entretenimiento | ParaTi
         <img className='header-icon' src={require('../../imagenes/icon.png')}/>
@@ -16,19 +16,19 @@ export function Navbar() {
         <div className='collapse navbar-collapse' id='navbarTogglerDemo02'>
           <ul className='navbar-nav mr-auto mt-2 mt-lg-0'>
           <li className='nav-item'>
-              <Link to='/' className='nav-link'> Inicio </Link>
+              <Link to='Para-Ti/' className='nav-link'> Inicio </Link>
             </li>
             <li className='nav-item'>
-            <Link to='/series' className='nav-link'> Series </Link>
+            <Link to='Para-Ti/series' className='nav-link'> Series </Link>
             </li>
             <li className='nav-item'>
-            <Link to='/peliculas' className='nav-link'> Peliculas </Link>
+            <Link to='Para-Ti/peliculas' className='nav-link'> Peliculas </Link>
             </li>
             <li className='nav-item'>
-            <Link to='/anime' className='nav-link'> Anime </Link>
+            <Link to='Para-Ti/anime' className='nav-link'> Anime </Link>
             </li>
             <li className='nav-item'>
-            <Link to='/contacto' className='nav-link'> Contacto </Link>
+            <Link to='Para-Ti/contacto' className='nav-link'> Contacto </Link>
             </li>
           </ul>
         </div>

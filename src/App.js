@@ -5,67 +5,6 @@ import {ListaPeliculas, ListaSeries, ListaAnime} from './componentes/contenido/C
 import Contact from './componentes/contacto/contacto'
 import { BrowserRouter as Router, Routes, Route, BrowserRouter} from 'react-router-dom'
 
-// export const Index = ()=>{
-//   return (
-//     <>
-//     <Navbar/>
-//     <main id='app'>
-//       <Home/>
-//     </main>
-//     <Footer/>
-//     </>
-//   )
-// }
-
-// export const Peliculas = ()=>{
-//   return (
-//     <>
-//     <Navbar/>
-//     <main id='app'>
-//       <ListaPeliculas/>
-//     </main>
-//     <Footer/>
-//     </>
-//   )
-// }
-
-// export const Series = ()=>{
-//   return (
-//     <>
-//     <Navbar/>
-//     <main id='app'>
-//       <ListaSeries/>
-//     </main>
-//     <Footer/>
-//     </>
-//   )
-// }
-
-// export const Anime = ()=>{
-//   return (
-//     <>
-//     <Navbar/>
-//     <main id='app'>
-//       <ListaAnime/>
-//     </main>
-//     <Footer/>
-//     </>
-//   )
-// }
-
-// export const Contacto = ()=>{
-//   return (
-//     <>
-//     <Navbar/>
-//     <main id='app'>
-//       <Contact/>
-//     </main>
-//     <Footer/>
-//     </>
-//   )
-// }
-
-
 export const App = ()=>{
   if (document.getElementById("btn_scrolltop")){
     const btn_scrolltop = document.getElementById("btn_scrolltop")
@@ -88,11 +27,11 @@ export const App = ()=>{
   <Router>
     <Navbar/>
       <Routes>
-        <Route path='/Para-Ti/' element= {<Home/>} />
-        <Route path='/Para-Ti/peliculas' element={ <ListaPeliculas />} />
-        <Route path='/Para-Ti/series' element={ <ListaSeries />} />
-        <Route path='/Para-Ti/anime' element={ <ListaAnime />} />
-        <Route path='/Para-Ti/contacto' element={ <Contact />} />
+        <Route path='Para-Ti/' element= {<Home/>} />
+        <Route path='Para-Ti/peliculas' element={ <ListaPeliculas />} />
+        <Route path='Para-Ti/series' element={ <ListaSeries />} />
+        <Route path='Para-Ti/anime' element={ <ListaAnime />} />
+        <Route path='Para-Ti/contacto' element={ <Contact />} />
       </Routes>
     <Footer/>
   </Router>

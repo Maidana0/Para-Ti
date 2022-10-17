@@ -18,21 +18,21 @@ function Home() {
           <div className='carousel-item active'>      
             <img src={require('../../imagenes/vikings.jpg')} className='d-block w-100' alt='Series-ParaTi'/>
             <div className='carousel-caption d-md-block'>
-            <Link to='/series'> <h5>Series</h5>  </Link>
+            <Link to='Para-Ti/series'> <h5>Series</h5>  </Link>
             </div>
         
           </div>
           <div className='carousel-item'>
             <img src={require('../../imagenes/guason.jpg')} className='d-block w-100' alt='Peliculas-ParaTi'/>
             <div className='carousel-caption d-md-block'>
-            <Link to='/series'> <h5>Peliculas</h5>  </Link>
+            <Link to='Para-Ti/peliculas'> <h5>Peliculas</h5>  </Link>
             </div>
           </div>
           
           <div className='carousel-item'>
             <img src={require('../../imagenes/law.jpg')} className='d-block w-100' alt='Anime-ParaTi'/>
             <div className='carousel-caption d-md-block'>
-            <Link to='/series'> <h5>Anime</h5>  </Link>
+            <Link to='Para-Ti/anime'> <h5>Anime</h5>  </Link>
             </div>
           </div>
         </div>
