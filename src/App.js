@@ -26,6 +26,7 @@ export const App = ()=>{
   return (
   <Router>
     <Navbar/>
+    <main>
       <Routes>
         <Route path='Para-Ti/' element= {<Home/>} />
         <Route path='Para-Ti/peliculas' element={ <ListaPeliculas />} />
@@ -33,6 +34,7 @@ export const App = ()=>{
         <Route path='Para-Ti/anime' element={ <ListaAnime />} />
         <Route path='Para-Ti/contacto' element={ <Contact />} />
       </Routes>
+      </main>
     <Footer/>
   </Router>
   )

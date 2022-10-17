@@ -11,7 +11,7 @@ export const Contact = () => {
             <div id='success' className='bg-light puff-in-center container text-center rounded shadow-lg p-4 mx-auto mt-5 w-75 border border-success'>
                 <h2 className='text-success mt-3'> ¡Gracias por contactarnos!</h2>
                     <p className='text-secondary'>El mensaje fue enviado correctamente.</p>
-                    <img className='w-50 mb-5 rounded'src={require('./luffy-success.png')}/>
+                    <img className='w-75 mb-5 rounded'src={require('./luffy-success.png')}/>
             </div>
             </>
         )

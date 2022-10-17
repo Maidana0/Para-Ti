@@ -106,9 +106,7 @@ textarea:focus,input:focus{
 textarea:hover,input:hover{
     background-color: rgba(139, 0, 0, 0.8);
 }
-#success{
-    margin-bottom: 10vh;
-}
+
 @media (max-width: 420px) { 
     #contacto{
         width: 90%;

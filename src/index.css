@@ -18,9 +18,10 @@ body{
   background-attachment: fixed;
   overflow-wrap: break-word ;
 }
-#app{
+main{
 min-height: 80vh;
 margin-bottom: 50px;
+display: block;
 }
 
 .navbar{
