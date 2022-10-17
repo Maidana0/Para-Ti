@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Para-Ti/static/css/main.bc7ade7a.css",
-    "main.js": "/Para-Ti/static/js/main.1d295a7e.js",
+    "main.js": "/Para-Ti/static/js/main.4216f857.js",
     "static/media/7.jpg": "/Para-Ti/static/media/7.f7e283ac7ae973b41902.jpg",
     "static/media/2.jpg": "/Para-Ti/static/media/2.7985fba95667b9c3a23a.jpg",
     "static/media/vikings.jpg": "/Para-Ti/static/media/vikings.e69468041147cbd88e63.jpg",
@@ -23,10 +23,10 @@
     "static/media/luffy.png": "/Para-Ti/static/media/luffy.d8b0a7ca55946c2c6f56.png",
     "index.html": "/Para-Ti/index.html",
     "main.bc7ade7a.css.map": "/Para-Ti/static/css/main.bc7ade7a.css.map",
-    "main.1d295a7e.js.map": "/Para-Ti/static/js/main.1d295a7e.js.map"
+    "main.4216f857.js.map": "/Para-Ti/static/js/main.4216f857.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7ade7a.css",
-    "static/js/main.1d295a7e.js"
+    "static/js/main.4216f857.js"
   ]
 }
