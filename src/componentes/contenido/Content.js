@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './style-content.css';
 import data from './data.json'
 
