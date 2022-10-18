@@ -102,11 +102,14 @@ p{
   width: 300px;
   height: auto;
   align-self: center;
+  text-align: center;
+  justify-content: center;
   margin: 5vh auto;
   min-height: 50vh;
 }
 .loading{
-  margin: 1vh auto;
+  display: block;
+  margin: auto;
   border-radius:100% ;
   height: auto;
   border: solid 1px red;
@@ -125,7 +128,7 @@ p{
     background-size: 25%;
   }
   .loading{
-    max-width: 50% ;
+    max-width: 55% ;
   }
 }
 
