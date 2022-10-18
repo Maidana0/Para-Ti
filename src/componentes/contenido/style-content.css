@@ -95,6 +95,24 @@ p{
 .col-lg-3{
   padding: 0;
 }
+.content-loading{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 300px;
+  height: auto;
+  align-self: center;
+  margin: 5vh auto;
+  min-height: 50vh;
+}
+.loading{
+  margin: 1vh auto;
+  border-radius:100% ;
+  height: auto;
+  border: solid 1px red;
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+  max-width: 80% ;
+}
 @media (max-width: 420px) { 
   .text{
     padding-left: 3vh;
@@ -103,19 +121,12 @@ p{
   p{
     margin-bottom: 1rem;
   }
+  .content{
+    background-size: 25%;
+  }
+  .loading{
+    max-width: 50% ;
+  }
 }
 
-.lista{
-  transform: translateX(100%);
-  opacity: 0;
-  position: fixed;
-  transition: all 0.5s;
-}  
-  
-  .lista-activa{
-  transform: translateX(0);
-  opacity: 1;
-  position: relative;
-  transition: all 1s;
 
-}

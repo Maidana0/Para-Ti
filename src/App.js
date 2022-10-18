@@ -1,8 +1,10 @@
 import React from 'react';
-import {Footer,Navbar} from './componentes/general/N-F'
+import {Footer,Navbar} from './componentes/general/N-F';
 import Home from './componentes/general/Home';
-import {ListaPeliculas, ListaSeries, ListaAnime} from './componentes/contenido/Content';
-import Contact from './componentes/contacto/contacto'
+import Series from './componentes/paginas/series';
+import Anime from './componentes/paginas/anime';
+import Peliculas from './componentes/paginas/peliculas';
+import Contact from './componentes/contacto/contacto';
 import { BrowserRouter as Router, Routes, Route, BrowserRouter} from 'react-router-dom'
 
 export const App = ()=>{
@@ -24,19 +26,21 @@ export const App = ()=>{
     } 
   }
   return (
+
   <Router>
     <Navbar/>
     <main>
       <Routes>
         <Route path='Para-Ti/' element= {<Home/>} />
-        <Route path='Para-Ti/peliculas' element={ <ListaPeliculas />} />
-        <Route path='Para-Ti/series' element={ <ListaSeries />} />
-        <Route path='Para-Ti/anime' element={ <ListaAnime />} />
+        <Route path='Para-Ti/peliculas' element={ <Peliculas />} />
+        <Route path='Para-Ti/series' element={ <Series />} />
+        <Route path='Para-Ti/anime' element={ <Anime />} />
         <Route path='Para-Ti/contacto' element={ <Contact />} />
       </Routes>
-      </main>
+    </main>
     <Footer/>
   </Router>
+
   )
 }
 export default App
