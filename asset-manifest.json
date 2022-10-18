@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Para-Ti/static/css/main.eb1cd229.css",
-    "main.js": "/Para-Ti/static/js/main.071f505f.js",
+    "main.css": "/Para-Ti/static/css/main.1d3d3de4.css",
+    "main.js": "/Para-Ti/static/js/main.9844598b.js",
     "static/media/7.jpg": "/Para-Ti/static/media/7.f7e283ac7ae973b41902.jpg",
     "static/media/2.jpg": "/Para-Ti/static/media/2.7985fba95667b9c3a23a.jpg",
     "static/media/vikings.jpg": "/Para-Ti/static/media/vikings.e69468041147cbd88e63.jpg",
@@ -24,11 +24,11 @@
     "static/media/icon.png": "/Para-Ti/static/media/icon.edda49790e8938791fb6.png",
     "static/media/luffy.png": "/Para-Ti/static/media/luffy.d8b0a7ca55946c2c6f56.png",
     "index.html": "/Para-Ti/index.html",
-    "main.eb1cd229.css.map": "/Para-Ti/static/css/main.eb1cd229.css.map",
-    "main.071f505f.js.map": "/Para-Ti/static/js/main.071f505f.js.map"
+    "main.1d3d3de4.css.map": "/Para-Ti/static/css/main.1d3d3de4.css.map",
+    "main.9844598b.js.map": "/Para-Ti/static/js/main.9844598b.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb1cd229.css",
-    "static/js/main.071f505f.js"
+    "static/css/main.1d3d3de4.css",
+    "static/js/main.9844598b.js"
   ]
 }
